@@ -1,5 +1,3 @@
-<a href="https://colab.research.google.com/github/Dark-Sied/Intent_Classification/blob/master/Intent_classification_final.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
 # Intent Classification using Deep Learning
 
 ## 1. Loading Data
